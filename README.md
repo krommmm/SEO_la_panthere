@@ -26,7 +26,7 @@ Modification plus explicites des liens.<br/>
 Ajout d'attribut alt pour les images et title pour les icones.<br/>
 Supression des elements invisibles.<br/>
 
-## SEO:
+### SEO:
 Balises meta pour indiquer le contenu de la page.<br/>
 Suppression des elements de black-hat(keyword à 1px, mots clefs duppliqués).<br/>
 Ajout de balises sémantiques(header main seciton arcticle footer etc..).<br/>
