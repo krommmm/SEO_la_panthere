@@ -12,8 +12,6 @@ Modification d'un site pour amméliorer les perfomances, l'accessibilité et le 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## Description:
-
 ### Logiciels utilisés.
 Wave<br/>
 Google Light House<br/>
